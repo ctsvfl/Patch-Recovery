@@ -6,10 +6,10 @@ on:
       RECOVERY_URL:
         description: 'RECOVERY URL'
         required: true
-        default: 'https://transfer.sh/(RECOMMENDED)'
+        default: 'https://drive.google.com/file/d/1-SsPxqg9lPeppkL4zyyYvwhk-lAbofz1/view?usp=sharing'
 
 env:
-  RECOVERY_URL: https://transfer.sh/1QxpqN/recovery.img
+  RECOVERY_URL: https://drive.google.com/file/d/1-SsPxqg9lPeppkL4zyyYvwhk-lAbofz1/view?usp=sharing
 
 jobs:
   build:
